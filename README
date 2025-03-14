@@ -1,0 +1,2 @@
+install All .deb files
+Add daemon.json file in /etc/docker/
